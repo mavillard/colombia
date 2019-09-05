@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2373.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="0.000000 -712.000000 2373.000000 1405.743408" height="1405.7434"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.2251836"
+              d="M 1996.388672,93.583603 C 1853.575928,112.936447 1610.327515,-72.253395 1590.974731,-215.066132"
+              class="id_Science id_GIR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12031067"
+              d="M 1996.388672,93.583603 C 1906.573608,173.639374 1651.767578,159.000580 1571.711792,69.185593"
+              class="id_Science id_RIO" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15975268"
+              d="M 1996.388672,93.583603 C 1746.781128,42.186760 1449.464844,-409.319885 1500.861694,-658.927551"
+              class="id_Science id_ARM" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.33625895"
+              d="M 1996.388672,93.583603 C 1981.083130,190.719482 1812.421021,313.464996 1715.285156,298.159454"
+              class="id_Science id_MAN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.43169725"
+              d="M 1996.388672,93.583603 C 2071.120361,65.644730 2225.126465,135.834030 2253.065186,210.565765"
+              class="id_Science id_IBA" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16110672"
+              d="M 1996.388672,93.583603 C 1953.973633,240.058884 1670.637939,396.149170 1524.162720,353.734070"
+              class="id_Science id_HON" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13376376"
+              d="M 1996.388672,93.583603 C 1844.603394,87.198883 1626.502686,-150.056137 1632.887329,-301.841400"
+              class="id_Science id_QUI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10668287"
+              d="M 1996.388672,93.583603 C 1824.616577,190.669647 1421.329468,78.640617 1324.243408,-93.131454"
+              class="id_Science id_MON" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12721193"
+              d="M 1996.388672,93.583603 C 1769.986084,181.324112 1298.771729,-26.668884 1211.031128,-253.071381"
+              class="id_Science id_MED" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.68333113"
+              d="M 1996.388672,93.583603 C 1999.973755,52.231441 2067.379639,-4.419077 2108.731934,-0.833931"
+              class="id_Science id_TUN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16062626"
+              d="M 1996.388672,93.583603 C 1785.537231,66.634949 1509.682983,-290.065277 1536.631592,-500.916779"
+              class="id_Science id_BUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10843002"
+              d="M 1996.388672,93.583603 C 1934.338135,-58.659607 2069.626953,-380.100250 2221.870361,-442.150787"
+              class="id_Science id_CATMAN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20089816"
+              d="M 1996.388672,93.583603 C 1769.932373,104.772873 1413.463989,-218.127655 1402.274780,-444.583954"
+              class="id_Science id_SIN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17670007"
+              d="M 1996.388672,93.583603 C 1934.547729,-18.471003 2009.868164,-279.314301 2121.922852,-341.155243"
+              class="id_Science id_LET" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13494308"
+              d="M 1996.388672,93.583603 C 1954.364014,173.405853 1771.593750,230.102280 1691.771484,188.077667"
+              class="id_Science id_BAR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.37950101"
+              d="M 1996.388672,93.583603 C 1829.822876,245.579361 1351.980713,223.724380 1199.984985,57.158646"
+              class="id_Science id_IPI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.19303596"
+              d="M 1996.388672,93.583603 C 1928.369995,184.217010 1690.391968,218.139160 1599.758545,150.120514"
+              class="id_Science id_CAR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17766102"
+              d="M 1996.388672,93.583603 C 1920.330200,41.975281 1883.655029,-149.524933 1935.263306,-225.583405"
+              class="id_Science id_VAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.24230571"
+              d="M 1996.388672,93.583603 C 1868.944092,61.991341 1725.165771,-176.563782 1756.758057,-304.008301"
+              class="id_Science id_FLO" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.25693813"
+              d="M 1996.388672,93.583603 C 1842.042236,7.418991 1739.769531,-353.347626 1825.934082,-507.694061"
+              class="id_Science id_CASAGO" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13957305"
+              d="M 1996.388672,93.583603 C 2006.271362,257.271973 1775.562988,517.628662 1611.874634,527.511414"
+              class="id_Science id_SAN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.53753114"
+              d="M 1996.388672,93.583603 C 2057.894775,143.312286 2075.560791,310.164398 2025.832153,371.670502"
+              class="id_Science id_PAS" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.22378588"
+              d="M 1996.388672,93.583603 C 1953.169312,285.672333 1600.207275,508.976471 1408.118530,465.757172"
+              class="id_Science id_STM" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.35124078"
+              d="M 1996.388672,93.583603 C 2012.988525,-22.860405 2212.553955,-172.626801 2328.998047,-156.027054"
+              class="id_Science id_PER" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.24470806"
+              d="M 1996.388672,93.583603 C 1996.973877,12.143471 2120.011719,-109.138992 2201.451904,-108.553825"
+              class="id_Science id_NEI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="4.638146"
+              d="M 1996.388672,93.583603 C 1948.509521,122.477142 1833.350464,93.998688 1804.456909,46.119522"
+              class="id_Science id_BLAA" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11795201"
+              d="M 1996.388672,93.583603 C 1902.911865,12.570950 1884.215454,-249.163315 1965.228149,-342.640167"
+              class="id_Science id_BUE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.6228796"
+              d="M 1996.388672,93.583603 C 1800.433594,303.109985 1192.211304,323.466827 982.684937,127.511681"
+              class="id_Science id_POP" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14075238"
+              d="M 1996.388672,93.583603 C 1782.832275,-2.647243 1606.843994,-467.328125 1703.074829,-680.884521"
+              class="id_Science id_VIL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13856843"
+              d="M 1996.388672,93.583603 C 2128.128906,150.030289 2241.069580,432.310822 2184.622803,564.051147"
+              class="id_Science id_CAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.102708094"
+              d="M 1996.388672,93.583603 C 1994.773560,133.049301 1933.152344,189.825165 1893.686646,188.210052"
+              class="id_Science id_ESPE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10808059"
+              d="M 1996.388672,93.583603 C 1780.463623,221.421539 1264.819336,89.290985 1136.981445,-126.633987"
+              class="id_Science id_CUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.120135956"
+              d="M 1571.711792,69.185593 C 1616.599487,-38.331455 1845.206543,-132.275482 1952.723633,-87.387794"
+              class="id_RIO id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.110745"
+              d="M 1571.711792,69.185593 C 1644.089844,53.421764 1776.302856,138.343216 1792.066650,210.721329"
+              class="id_RIO id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12432913"
+              d="M 1571.711792,69.185593 C 1531.018799,69.542358 1469.444092,9.037949 1469.087280,-31.655090"
+              class="id_RIO id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13184188"
+              d="M 1571.711792,69.185593 C 1575.708618,-30.993217 1731.972168,-175.266190 1832.150879,-171.269363"
+              class="id_RIO id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15673883"
+              d="M 1571.711792,69.185593 C 1557.899170,24.198269 1604.661133,-64.001656 1649.648560,-77.814270"
+              class="id_RIO id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20076713"
+              d="M 1571.711792,69.185593 C 1480.494507,36.100082 1393.296997,-150.354050 1426.382446,-241.571304"
+              class="id_RIO id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1078622"
+              d="M 1571.711792,69.185593 C 1730.091309,135.277771 1868.522461,471.985382 1802.430298,630.364990"
+              class="id_RIO id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10585297"
+              d="M 1571.711792,69.185593 C 1696.246216,94.277649 1845.409912,318.717468 1820.317871,443.251953"
+              class="id_RIO id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10331959"
+              d="M 1571.711792,69.185593 C 1540.295288,-14.401350 1618.551025,-186.906479 1702.137939,-218.322952"
+              class="id_RIO id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.18333927"
+              d="M 1500.861694,-658.927551 C 1705.542114,-634.992004 1976.659180,-292.068115 1952.723633,-87.387794"
+              class="id_ARM id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14118916"
+              d="M 1500.861694,-658.927551 C 1733.032471,-543.238770 1907.755493,-21.449444 1792.066650,210.721329"
+              class="id_ARM id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16560565"
+              d="M 1500.861694,-658.927551 C 1619.961304,-527.118164 1600.896606,-150.754700 1469.087280,-31.655090"
+              class="id_ARM id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17766102"
+              d="M 1500.861694,-658.927551 C 1664.651123,-627.653809 1863.424683,-335.058838 1832.150879,-171.269363"
+              class="id_ARM id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.25095412"
+              d="M 1500.861694,-658.927551 C 1646.841675,-572.462280 1736.113892,-223.794296 1649.648560,-77.814270"
+              class="id_ARM id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.8338048"
+              d="M 1500.861694,-658.927551 C 1569.437012,-560.560425 1524.749512,-310.146698 1426.382446,-241.571304"
+              class="id_ARM id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16726544"
+              d="M 1500.861694,-658.927551 C 1819.033936,-461.382782 1999.975098,312.192780 1802.430298,630.364990"
+              class="id_ARM id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10934728"
+              d="M 1500.861694,-658.927551 C 1785.188843,-502.382874 1976.862549,158.924820 1820.317871,443.251953"
+              class="id_ARM id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11249215"
+              d="M 1500.861694,-658.927551 C 1629.237915,-611.061890 1750.003662,-346.699127 1702.137939,-218.322952"
+              class="id_ARM id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.54032654"
+              d="M 2108.731934,-0.833931 C 2060.219482,13.056955 1966.614502,-38.875366 1952.723633,-87.387794"
+              class="id_TUN id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.29681695"
+              d="M 2108.731934,-0.833931 C 2087.709961,104.810181 1897.710693,231.743347 1792.066650,210.721329"
+              class="id_TUN id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.77872574"
+              d="M 2108.731934,-0.833931 C 1974.638794,120.930771 1590.852051,102.438072 1469.087280,-31.655090"
+              class="id_TUN id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.51643425"
+              d="M 2108.731934,-0.833931 C 2019.328735,20.395195 1853.380005,-81.866074 1832.150879,-171.269363"
+              class="id_TUN id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.386386"
+              d="M 2108.731934,-0.833931 C 2001.519165,75.586685 1726.069092,29.398479 1649.648560,-77.814270"
+              class="id_TUN id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="5.242312"
+              d="M 2108.731934,-0.833931 C 1924.114502,87.488503 1514.704834,-56.953918 1426.382446,-241.571304"
+              class="id_TUN id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.4181568"
+              d="M 2108.731934,-0.833931 C 2173.711426,186.666183 1989.930420,565.385559 1802.430298,630.364990"
+              class="id_TUN id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17774837"
+              d="M 2108.731934,-0.833931 C 2139.866211,145.666061 1966.817871,412.117584 1820.317871,443.251953"
+              class="id_TUN id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.18237832"
+              d="M 2108.731934,-0.833931 C 1983.915283,36.987068 1739.958984,-93.506348 1702.137939,-218.322952"
+              class="id_TUN id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.40544626"
+              d="M 1715.285156,298.159454 C 1685.663330,173.562302 1828.126465,-57.766041 1952.723633,-87.387794"
+              class="id_MAN id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20059241"
+              d="M 1715.285156,298.159454 C 1713.153809,265.315521 1759.222656,212.852661 1792.066650,210.721329"
+              class="id_MAN id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.45628843"
+              d="M 1715.285156,298.159454 C 1600.082642,281.436096 1452.364014,83.547401 1469.087280,-31.655090"
+              class="id_MAN id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.3976714"
+              d="M 1715.285156,298.159454 C 1644.772583,180.900543 1714.891968,-100.756744 1832.150879,-171.269363"
+              class="id_MAN id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.77645445"
+              d="M 1715.285156,298.159454 C 1626.963135,236.092026 1587.581177,10.507798 1649.648560,-77.814270"
+              class="id_MAN id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.5632854"
+              d="M 1715.285156,298.159454 C 1549.558472,247.993835 1376.216797,-75.844612 1426.382446,-241.571304"
+              class="id_MAN id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.37530783"
+              d="M 1715.285156,298.159454 C 1799.155396,347.171539 1851.442383,546.494873 1802.430298,630.364990"
+              class="id_MAN id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17372991"
+              d="M 1715.285156,298.159454 C 1765.310303,306.171417 1828.329834,393.226929 1820.317871,443.251953"
+              class="id_MAN id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17019193"
+              d="M 1715.285156,298.159454 C 1609.359253,197.492416 1601.470825,-112.397026 1702.137939,-218.322952"
+              class="id_MAN id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.40238872"
+              d="M 2253.065186,210.565765 C 2133.406006,211.043365 1953.201294,32.271233 1952.723633,-87.387794"
+              class="id_IBA id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.23492399"
+              d="M 2253.065186,210.565765 C 2160.896484,302.796570 1884.297485,302.889923 1792.066650,210.721329"
+              class="id_IBA id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.553867"
+              d="M 2253.065186,210.565765 C 2047.825317,318.917175 1577.438599,173.584656 1469.087280,-31.655090"
+              class="id_IBA id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.32568866"
+              d="M 2253.065186,210.565765 C 2092.515381,218.381592 1839.966675,-10.719475 1832.150879,-171.269363"
+              class="id_IBA id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.8678743"
+              d="M 2253.065186,210.565765 C 2074.705811,273.573090 1712.655884,100.545059 1649.648560,-77.814270"
+              class="id_IBA id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="2.135959"
+              d="M 2253.065186,210.565765 C 1997.301147,285.474915 1501.291626,14.192657 1426.382446,-241.571304"
+              class="id_IBA id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.33770034"
+              d="M 2253.065186,210.565765 C 2246.898193,384.652588 1976.517090,636.532104 1802.430298,630.364990"
+              class="id_IBA id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1578308"
+              d="M 2253.065186,210.565765 C 2213.052979,343.652466 1953.404541,483.264191 1820.317871,443.251953"
+              class="id_IBA id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15608366"
+              d="M 2253.065186,210.565765 C 2057.101807,234.973465 1726.545654,-22.359749 1702.137939,-218.322952"
+              class="id_IBA id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16058257"
+              d="M 1524.162720,353.734070 C 1521.650513,179.797516 1778.787109,-84.875610 1952.723633,-87.387794"
+              class="id_HON id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13939834"
+              d="M 1524.162720,353.734070 C 1549.140991,271.550751 1709.883301,185.743103 1792.066650,210.721329"
+              class="id_HON id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1673528"
+              d="M 1524.162720,353.734070 C 1436.069702,287.671326 1403.024536,56.437824 1469.087280,-31.655090"
+              class="id_HON id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14455244"
+              d="M 1524.162720,353.734070 C 1480.759644,187.135757 1665.552490,-127.866302 1832.150879,-171.269363"
+              class="id_HON id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17661272"
+              d="M 1524.162720,353.734070 C 1462.950195,242.327240 1538.241699,-16.601770 1649.648560,-77.814270"
+              class="id_HON id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.531154"
+              d="M 1524.162720,353.734070 C 1385.545654,254.229065 1326.877441,-102.954178 1426.382446,-241.571304"
+              class="id_HON id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11913134"
+              d="M 1524.162720,353.734070 C 1635.142456,353.406738 1802.102905,519.385315 1802.430298,630.364990"
+              class="id_HON id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10860474"
+              d="M 1524.162720,353.734070 C 1601.297363,312.406616 1778.990356,366.117371 1820.317871,443.251953"
+              class="id_HON id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10685758"
+              d="M 1524.162720,353.734070 C 1445.346436,203.727615 1552.131470,-139.506592 1702.137939,-218.322952"
+              class="id_HON id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12096585"
+              d="M 1632.887329,-301.841400 C 1739.745361,-322.917938 1931.647095,-194.245773 1952.723633,-87.387794"
+              class="id_QUI id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11161858"
+              d="M 1632.887329,-301.841400 C 1767.235718,-231.164719 1862.743408,76.372917 1792.066650,210.721329"
+              class="id_QUI id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13354537"
+              d="M 1632.887329,-301.841400 C 1654.164551,-215.044128 1555.884521,-52.932343 1469.087280,-31.655090"
+              class="id_QUI id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.115549676"
+              d="M 1632.887329,-301.841400 C 1698.854370,-315.579712 1818.412598,-237.236481 1832.150879,-171.269363"
+              class="id_QUI id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20845461"
+              d="M 1632.887329,-301.841400 C 1681.045044,-260.388214 1691.101685,-125.971947 1649.648560,-77.814270"
+              class="id_QUI id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.25519097"
+              d="M 1632.887329,-301.841400 C 1603.640381,-248.486404 1479.737549,-212.324341 1426.382446,-241.571304"
+              class="id_QUI id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11651061"
+              d="M 1632.887329,-301.841400 C 1853.237183,-149.308701 1954.963013,410.015106 1802.430298,630.364990"
+              class="id_QUI id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10995878"
+              d="M 1632.887329,-301.841400 C 1819.392090,-190.308838 1931.850464,256.747162 1820.317871,443.251953"
+              class="id_QUI id_Language" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10345063"
+              d="M 1632.887329,-301.841400 C 1663.441162,-298.987823 1704.991577,-248.876770 1702.137939,-218.322952"
+              class="id_QUI id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12494063"
+              d="M 1820.317871,443.251953 C 1642.785645,357.456940 1505.179810,-37.533882 1590.974731,-215.066132"
+              class="id_Language id_GIR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10497939"
+              d="M 1820.317871,443.251953 C 1613.826294,435.190186 1316.181519,113.360130 1324.243408,-93.131454"
+              class="id_Language id_MON" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10886681"
+              d="M 1820.317871,443.251953 C 1559.195923,425.844666 1193.623779,8.050636 1211.031128,-253.071381"
+              class="id_Language id_MED" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13581666"
+              d="M 1820.317871,443.251953 C 1574.746826,311.155457 1404.535156,-255.345779 1536.631592,-500.916779"
+              class="id_Language id_BUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10021839"
+              d="M 1820.317871,443.251953 C 1723.547852,185.860901 1964.479248,-345.380737 2221.870361,-442.150787"
+              class="id_Language id_CATMAN" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11122547"
+              d="M 1820.317871,443.251953 C 1559.142090,349.293365 1308.316284,-183.408173 1402.274780,-444.583954"
+              class="id_Language id_SIN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.117471546"
+              d="M 1820.317871,443.251953 C 1723.757446,226.049484 1904.720337,-244.594788 2121.922852,-341.155243"
+              class="id_Language id_LET" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11476345"
+              d="M 1820.317871,443.251953 C 1743.573730,417.926392 1666.445801,264.821808 1691.771484,188.077667"
+              class="id_Language id_BAR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13817532"
+              d="M 1820.317871,443.251953 C 1619.032715,490.099884 1246.832886,258.443909 1199.984985,57.158646"
+              class="id_Language id_IPI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13747646"
+              d="M 1820.317871,443.251953 C 1717.579712,428.737549 1585.244019,252.858658 1599.758545,150.120514"
+              class="id_Language id_CAR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11712211"
+              d="M 1820.317871,443.251953 C 1709.539917,286.495789 1778.507080,-114.805420 1935.263306,-225.583405"
+              class="id_Language id_VAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.116292216"
+              d="M 1820.317871,443.251953 C 1658.153931,306.511871 1620.017944,-141.844284 1756.758057,-304.008301"
+              class="id_Language id_FLO" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16888157"
+              d="M 1820.317871,443.251953 C 1631.251953,251.939499 1634.621582,-318.628082 1825.934082,-507.694061"
+              class="id_Language id_CASAGO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.104411565"
+              d="M 1820.317871,443.251953 C 1795.481201,501.792511 1670.415161,552.348145 1611.874634,527.511414"
+              class="id_Language id_SAN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16966778"
+              d="M 1820.317871,443.251953 C 1847.104492,387.832825 1970.412964,344.883942 2025.832153,371.670502"
+              class="id_Language id_PAS" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11987388"
+              d="M 1820.317871,443.251953 C 1742.379150,530.192871 1495.059448,543.695984 1408.118530,465.757172"
+              class="id_Language id_STM" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1733368"
+              d="M 1820.317871,443.251953 C 1802.198120,221.660110 2107.406250,-137.907288 2328.998047,-156.027054"
+              class="id_Language id_PER" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14079605"
+              d="M 1820.317871,443.251953 C 1786.183472,256.664001 2014.863892,-74.419472 2201.451904,-108.553825"
+              class="id_Language id_NEI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.2005762"
+              d="M 1820.317871,443.251953 C 1737.719116,366.997650 1728.202637,128.718201 1804.456909,46.119522"
+              class="id_Language id_BLAA" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10436789"
+              d="M 1820.317871,443.251953 C 1692.121460,257.091492 1779.067627,-214.443802 1965.228149,-342.640167"
+              class="id_Language id_BUE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16787694"
+              d="M 1820.317871,443.251953 C 1589.643188,547.630493 1087.063477,358.186340 982.684937,127.511681"
+              class="id_Language id_POP" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.107075974"
+              d="M 1820.317871,443.251953 C 1572.041992,241.873260 1501.696167,-432.608612 1703.074829,-680.884521"
+              class="id_Language id_VIL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.114676096"
+              d="M 1820.317871,443.251953 C 1917.338623,394.550812 2135.921631,467.030304 2184.622803,564.051147"
+              class="id_Language id_CAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16630451"
+              d="M 1820.317871,443.251953 C 1783.983154,377.569824 1828.004517,224.544678 1893.686646,188.210052"
+              class="id_Language id_ESPE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10594033"
+              d="M 1820.317871,443.251953 C 1569.673462,465.942078 1159.671509,124.010475 1136.981445,-126.633987"
+              class="id_Language id_CUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17158964"
+              d="M 1211.031128,-253.071381 C 1392.506348,-368.273163 1837.521851,-268.863007 1952.723633,-87.387794"
+              class="id_MED id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.111662254"
+              d="M 1211.031128,-253.071381 C 1419.996826,-276.519928 1768.618042,1.755692 1792.066650,210.721329"
+              class="id_MED id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13647185"
+              d="M 1211.031128,-253.071381 C 1306.925537,-260.399353 1461.759277,-127.549576 1469.087280,-31.655090"
+              class="id_MED id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20714425"
+              d="M 1211.031128,-253.071381 C 1351.615479,-360.934937 1724.287231,-311.853699 1832.150879,-171.269363"
+              class="id_MED id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2739729"
+              d="M 1211.031128,-253.071381 C 1333.806030,-305.743439 1596.976440,-200.589172 1649.648560,-77.814270"
+              class="id_MED id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2671153"
+              d="M 1211.031128,-253.071381 C 1256.401489,-293.841614 1385.612183,-286.941589 1426.382446,-241.571304"
+              class="id_MED id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16294123"
+              d="M 1211.031128,-253.071381 C 1505.998169,-194.663940 1860.837769,335.397858 1802.430298,630.364990"
+              class="id_MED id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13310857"
+              d="M 1211.031128,-253.071381 C 1316.202148,-344.343048 1610.866333,-323.494019 1702.137939,-218.322952"
+              class="id_MED id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="6.2999954"
+              d="M 1804.456909,46.119522 C 1807.408813,-10.235292 1896.368896,-90.339676 1952.723633,-87.387794"
+              class="id_BLAA id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.9669654"
+              d="M 1804.456909,46.119522 C 1834.899292,81.517937 1827.465088,180.279022 1792.066650,210.721329"
+              class="id_BLAA id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="6.204863"
+              d="M 1804.456909,46.119522 C 1721.828003,97.638527 1520.606323,50.973763 1469.087280,-31.655090"
+              class="id_BLAA id_Technology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="5.287039"
+              d="M 1804.456909,46.119522 C 1766.517944,-2.897048 1783.134277,-133.330383 1832.150879,-171.269363"
+              class="id_BLAA id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="20.0"
+              d="M 1804.456909,46.119522 C 1748.708496,52.294434 1655.823486,-22.065840 1649.648560,-77.814270"
+              class="id_BLAA id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="14.222991"
+              d="M 1804.456909,46.119522 C 1671.303833,64.196243 1444.459106,-108.418251 1426.382446,-241.571304"
+              class="id_BLAA id_Literature" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="5.772879"
+              d="M 1804.456909,46.119522 C 1920.900757,163.373947 1919.684692,513.921204 1802.430298,630.364990"
+              class="id_BLAA id_Philosophy_&amp;_psychology"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.5668671"
+              d="M 1804.456909,46.119522 C 1731.104614,13.694824 1669.713135,-144.970673 1702.137939,-218.322952"
+              class="id_BLAA id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.25986463"
+              d="M 1536.631592,-500.916779 C 1702.555786,-501.429382 1952.211060,-253.312012 1952.723633,-87.387794"
+              class="id_BUC id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14800307"
+              d="M 1536.631592,-500.916779 C 1730.046265,-409.676178 1883.307251,17.306698 1792.066650,210.721329"
+              class="id_BUC id_Computer_science,
+information,
+&amp;_general_works" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20736264"
+              d="M 1536.631592,-500.916779 C 1616.974976,-393.555603 1576.448486,-111.998566 1469.087280,-31.655090"
+              class="id_BUC id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.28021896"
+              d="M 1536.631592,-500.916779 C 1661.664917,-494.091156 1838.976440,-296.302704 1832.150879,-171.269363"
+              class="id_BUC id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.5420737"
+              d="M 1536.631592,-500.916779 C 1643.855469,-438.899658 1711.665649,-185.038177 1649.648560,-77.814270"
+              class="id_BUC id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.72652954"
+              d="M 1536.631592,-500.916779 C 1566.450928,-426.997864 1500.301392,-271.390564 1426.382446,-241.571304"
+              class="id_BUC id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2617865"
+              d="M 1536.631592,-500.916779 C 1816.047729,-327.820129 1975.526855,350.948914 1802.430298,630.364990"
+              class="id_BUC id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1599274"
+              d="M 1536.631592,-500.916779 C 1626.251709,-477.499268 1725.555420,-307.942993 1702.137939,-218.322952"
+              class="id_BUC id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15468593"
+              d="M 1792.066650,210.721329 C 1666.690796,165.782227 1546.035645,-89.690247 1590.974731,-215.066132"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_GIR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10585297"
+              d="M 1792.066650,210.721329 C 1637.731445,243.515427 1357.037598,61.203754 1324.243408,-93.131454"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_MON" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10353799"
+              d="M 1792.066650,210.721329 C 1747.452881,-5.813843 2005.335205,-397.537109 2221.870361,-442.150787"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_CATMAN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14188802"
+              d="M 1792.066650,210.721329 C 1583.047241,157.618652 1349.172119,-235.564514 1402.274780,-444.583954"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_SIN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14232482"
+              d="M 1792.066650,210.721329 C 1747.662476,34.374763 1945.576294,-296.751160 2121.922852,-341.155243"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_LET" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11161858"
+              d="M 1792.066650,210.721329 C 1767.478882,226.251633 1707.301880,212.665436 1691.771484,188.077667"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_BAR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16752751"
+              d="M 1792.066650,210.721329 C 1642.937744,298.425110 1287.688843,206.287521 1199.984985,57.158646"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_IPI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13494308"
+              d="M 1792.066650,210.721329 C 1741.484863,237.062790 1626.100098,200.702301 1599.758545,150.120514"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_CAR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13708335"
+              d="M 1792.066650,210.721329 C 1733.444946,94.821045 1819.363037,-166.961777 1935.263306,-225.583405"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_VAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16023314"
+              d="M 1792.066650,210.721329 C 1682.058960,114.837120 1660.873901,-194.000656 1756.758057,-304.008301"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_FLO" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2148754"
+              d="M 1792.066650,210.721329 C 1655.156982,60.264767 1675.477539,-370.784485 1825.934082,-507.694061"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_CASAGO" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10816795"
+              d="M 1792.066650,210.721329 C 1819.386230,310.117737 1711.271118,500.191772 1611.874634,527.511414"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_SAN" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.27733615"
+              d="M 1792.066650,210.721329 C 1871.009521,196.158066 2011.268921,292.727539 2025.832153,371.670502"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_PAS" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12847862"
+              d="M 1792.066650,210.721329 C 1766.284180,338.518127 1535.915405,491.539612 1408.118530,465.757172"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_STM" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20561548"
+              d="M 1792.066650,210.721329 C 1826.103149,29.985359 2148.262207,-190.063660 2328.998047,-156.027054"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_PER" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1568262"
+              d="M 1792.066650,210.721329 C 1810.088745,64.989250 2055.719971,-126.575851 2201.451904,-108.553825"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_NEI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10672654"
+              d="M 1792.066650,210.721329 C 1716.026611,65.416725 1819.923584,-266.600159 1965.228149,-342.640167"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_BUE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.29201224"
+              d="M 1792.066650,210.721329 C 1613.548340,355.955750 1127.919312,306.029968 982.684937,127.511681"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_POP" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12983266"
+              d="M 1792.066650,210.721329 C 1595.947144,50.198524 1542.552002,-484.764984 1703.074829,-680.884521"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_VIL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13673392"
+              d="M 1792.066650,210.721329 C 1941.243896,202.876068 2176.777588,414.873962 2184.622803,564.051147"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_CAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10183451"
+              d="M 1792.066650,210.721329 C 1807.888428,185.895065 1868.860474,172.388306 1893.686646,188.210052"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_ESPE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.111662254"
+              d="M 1792.066650,210.721329 C 1593.578491,274.267334 1200.527466,71.854118 1136.981445,-126.633987"
+              class="id_Computer_science,
+information,
+&amp;_general_works id_CUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10982774"
+              d="M 2221.870361,-442.150787 C 2238.993652,-317.368835 2077.505615,-104.511047 1952.723633,-87.387794"
+              class="id_CATMAN id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12638204"
+              d="M 2221.870361,-442.150787 C 2153.412842,-209.495010 1701.743042,36.802391 1469.087280,-31.655090"
+              class="id_CATMAN id_Technology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10690126"
+              d="M 2221.870361,-442.150787 C 2198.102783,-310.030579 1964.270996,-147.501740 1832.150879,-171.269363"
+              class="id_CATMAN id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11279791"
+              d="M 2221.870361,-442.150787 C 2180.293213,-254.839111 1836.960205,-36.237221 1649.648560,-77.814270"
+              class="id_CATMAN id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.117777295"
+              d="M 2221.870361,-442.150787 C 2102.888672,-242.937302 1625.595825,-122.589615 1426.382446,-241.571304"
+              class="id_CATMAN id_Literature" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.102708094"
+              d="M 2221.870361,-442.150787 C 2352.485596,-143.759628 2100.821533,499.749878 1802.430298,630.364990"
+              class="id_CATMAN id_Philosophy_&amp;_psychology"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10104829"
+              d="M 2221.870361,-442.150787 C 2162.689453,-293.438751 1850.850098,-159.142059 1702.137939,-218.322952"
+              class="id_CATMAN id_Religion" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16447"
+              d="M 1935.263306,-225.583405 C 1966.394531,-201.436340 1976.870728,-118.518982 1952.723633,-87.387794"
+              class="id_VAL id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20408672"
+              d="M 1935.263306,-225.583405 C 1880.813721,-93.562538 1601.108154,22.794456 1469.087280,-31.655090"
+              class="id_VAL id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16473207"
+              d="M 1935.263306,-225.583405 C 1925.503662,-194.098114 1863.636108,-161.509689 1832.150879,-171.269363"
+              class="id_VAL id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.3501925"
+              d="M 1935.263306,-225.583405 C 1907.694214,-138.906616 1736.325317,-50.245152 1649.648560,-77.814270"
+              class="id_VAL id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.5492807"
+              d="M 1935.263306,-225.583405 C 1830.289551,-127.004814 1524.960938,-136.597534 1426.382446,-241.571304"
+              class="id_VAL id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16398953"
+              d="M 1935.263306,-225.583405 C 2079.886230,-27.827137 2000.186646,485.741913 1802.430298,630.364990"
+              class="id_VAL id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12424177"
+              d="M 1935.263306,-225.583405 C 1890.090332,-177.506241 1750.215210,-173.149963 1702.137939,-218.322952"
+              class="id_VAL id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12349923"
+              d="M 1324.243408,-93.131454 C 1451.088135,-217.678772 1828.176270,-214.232574 1952.723633,-87.387794"
+              class="id_MON id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11891295"
+              d="M 1324.243408,-93.131454 C 1365.507446,-109.804962 1452.413818,-72.919144 1469.087280,-31.655090"
+              class="id_MON id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15171577"
+              d="M 1324.243408,-93.131454 C 1410.197388,-210.340530 1714.941772,-257.223267 1832.150879,-171.269363"
+              class="id_MON id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16390216"
+              d="M 1324.243408,-93.131454 C 1392.387939,-155.149048 1587.630981,-145.958740 1649.648560,-77.814270"
+              class="id_MON id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.23339523"
+              d="M 1324.243408,-93.131454 C 1314.983276,-143.247238 1376.266602,-232.311142 1426.382446,-241.571304"
+              class="id_MON id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1200486"
+              d="M 1324.243408,-93.131454 C 1564.580078,-44.069534 1851.492310,390.028320 1802.430298,630.364990"
+              class="id_MON id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10725069"
+              d="M 1324.243408,-93.131454 C 1374.783936,-193.748657 1601.520752,-268.863556 1702.137939,-218.322952"
+              class="id_MON id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.19251183"
+              d="M 1402.274780,-444.583954 C 1583.803711,-483.234497 1914.072998,-268.916809 1952.723633,-87.387794"
+              class="id_SIN id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.220641"
+              d="M 1402.274780,-444.583954 C 1498.223145,-375.360657 1538.310547,-127.603363 1469.087280,-31.655090"
+              class="id_SIN id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14839618"
+              d="M 1402.274780,-444.583954 C 1542.912964,-475.896271 1800.838623,-311.907501 1832.150879,-171.269363"
+              class="id_SIN id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.32009777"
+              d="M 1402.274780,-444.583954 C 1525.103394,-420.704773 1673.527710,-200.642975 1649.648560,-77.814270"
+              class="id_SIN id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.5422921"
+              d="M 1402.274780,-444.583954 C 1447.698853,-408.802948 1462.163452,-286.995361 1426.382446,-241.571304"
+              class="id_SIN id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14066502"
+              d="M 1402.274780,-444.583954 C 1697.295654,-309.625244 1937.388916,335.344086 1802.430298,630.364990"
+              class="id_SIN id_Philosophy_&amp;_psychology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.116597965"
+              d="M 1402.274780,-444.583954 C 1507.499634,-459.304382 1687.417480,-323.547791 1702.137939,-218.322952"
+              class="id_SIN id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16420792"
+              d="M 1802.430298,630.364990 C 1591.052979,503.569855 1464.179688,-3.688774 1590.974731,-215.066132"
+              class="id_Philosophy_&amp;_psychology id_GIR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13459365"
+              d="M 1802.430298,630.364990 C 1672.024780,372.162415 1863.720337,-210.749695 2121.922852,-341.155243"
+              class="id_Philosophy_&amp;_psychology id_LET" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16547461"
+              d="M 1802.430298,630.364990 C 1691.841064,564.039307 1625.445679,298.666901 1691.771484,188.077667"
+              class="id_Philosophy_&amp;_psychology id_BAR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.3051596"
+              d="M 1802.430298,630.364990 C 1567.300049,636.212769 1205.832764,292.289001 1199.984985,57.158646"
+              class="id_Philosophy_&amp;_psychology id_IPI" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20613962"
+              d="M 1802.430298,630.364990 C 1665.847168,574.850464 1544.243896,286.703766 1599.758545,150.120514"
+              class="id_Philosophy_&amp;_psychology id_CAR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15621468"
+              d="M 1802.430298,630.364990 C 1606.421265,452.624786 1579.017822,-107.999191 1756.758057,-304.008301"
+              class="id_Philosophy_&amp;_psychology id_FLO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.5150365"
+              d="M 1802.430298,630.364990 C 1579.519287,398.052429 1593.621460,-284.782990 1825.934082,-507.694061"
+              class="id_Philosophy_&amp;_psychology id_CASAGO"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11022086"
+              d="M 1802.430298,630.364990 C 1743.748535,647.905396 1629.415039,586.193298 1611.874634,527.511414"
+              class="id_Philosophy_&amp;_psychology id_SAN" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.40841642"
+              d="M 1802.430298,630.364990 C 1795.371826,533.945740 1929.412842,378.729004 2025.832153,371.670502"
+              class="id_Philosophy_&amp;_psychology id_PAS" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17709318"
+              d="M 1802.430298,630.364990 C 1690.646484,676.305786 1454.059326,577.541077 1408.118530,465.757172"
+              class="id_Philosophy_&amp;_psychology id_STM" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.42877075"
+              d="M 1802.430298,630.364990 C 1750.465454,367.773010 2066.406250,-104.062195 2328.998047,-156.027054"
+              class="id_Philosophy_&amp;_psychology id_PER" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.19364747"
+              d="M 1802.430298,630.364990 C 1734.450806,402.776917 1973.863647,-40.574379 2201.451904,-108.553825"
+              class="id_Philosophy_&amp;_psychology id_NEI" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11581175"
+              d="M 1802.430298,630.364990 C 1640.388794,403.204407 1738.067505,-180.598709 1965.228149,-342.640167"
+              class="id_Philosophy_&amp;_psychology id_BUE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.33206576"
+              d="M 1802.430298,630.364990 C 1537.910522,693.743408 1046.063354,392.031433 982.684937,127.511681"
+              class="id_Philosophy_&amp;_psychology id_POP" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15984003"
+              d="M 1802.430298,630.364990 C 1520.309326,387.986176 1460.696045,-398.763519 1703.074829,-680.884521"
+              class="id_Philosophy_&amp;_psychology id_VIL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.23649643"
+              d="M 1802.430298,630.364990 C 1865.605957,540.663757 2094.921631,500.875397 2184.622803,564.051147"
+              class="id_Philosophy_&amp;_psychology id_CAL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.102708094"
+              d="M 1802.430298,630.364990 C 1732.250488,523.682739 1787.004395,258.389771 1893.686646,188.210052"
+              class="id_Philosophy_&amp;_psychology id_ESPE"
+              stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1231498"
+              d="M 1802.430298,630.364990 C 1517.940796,612.054993 1118.671509,157.855591 1136.981445,-126.633987"
+              class="id_Philosophy_&amp;_psychology id_CUC" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.26418883"
+              d="M 1199.984985,57.158646 C 1321.623413,-122.298370 1773.266602,-209.026230 1952.723633,-87.387794"
+              class="id_IPI id_Arts_&amp;_recreation" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.31179878"
+              d="M 1199.984985,57.158646 C 1236.042725,-14.424564 1397.504150,-67.712807 1469.087280,-31.655090"
+              class="id_IPI id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.27676833"
+              d="M 1199.984985,57.158646 C 1280.732666,-114.960136 1660.032104,-252.016937 1832.150879,-171.269363"
+              class="id_IPI id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.31992304"
+              d="M 1199.984985,57.158646 C 1262.923096,-59.768646 1532.721191,-140.752396 1649.648560,-77.814270"
+              class="id_IPI id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.4604653"
+              d="M 1199.984985,57.158646 C 1185.518555,-47.866840 1321.356934,-227.104813 1426.382446,-241.571304"
+              class="id_IPI id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15049276"
+              d="M 1199.984985,57.158646 C 1245.319214,-98.368271 1546.611084,-263.657227 1702.137939,-218.322952"
+              class="id_IPI id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.19159457"
+              d="M 1952.723633,-87.387794 C 1854.838257,-40.573677 1637.788818,-117.180672 1590.974731,-215.066132"
+              class="id_Arts_&amp;_recreation id_GIR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14485818"
+              d="M 1952.723633,-87.387794 C 1935.809937,-171.981125 2037.329468,-324.241608 2121.922852,-341.155243"
+              class="id_Arts_&amp;_recreation id_LET" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14249954"
+              d="M 1952.723633,-87.387794 C 1955.626343,19.895725 1799.055054,185.175003 1691.771484,188.077667"
+              class="id_Arts_&amp;_recreation id_BAR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.19613716"
+              d="M 1952.723633,-87.387794 C 1929.632324,30.706882 1717.853271,173.211868 1599.758545,150.120514"
+              class="id_Arts_&amp;_recreation id_CAR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1869646"
+              d="M 1952.723633,-87.387794 C 1870.206421,-91.518784 1752.627075,-221.491089 1756.758057,-304.008301"
+              class="id_Arts_&amp;_recreation id_FLO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.45812294"
+              d="M 1952.723633,-87.387794 C 1843.304443,-146.091141 1767.230713,-398.274902 1825.934082,-507.694061"
+              class="id_Arts_&amp;_recreation id_CASAGO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1320166"
+              d="M 1952.723633,-87.387794 C 2007.533691,103.761848 1803.024292,472.701355 1611.874634,527.511414"
+              class="id_Arts_&amp;_recreation id_SAN" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.64611673"
+              d="M 1952.723633,-87.387794 C 2059.156982,-10.197839 2103.022217,265.237122 2025.832153,371.670502"
+              class="id_Arts_&amp;_recreation id_PAS" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2049603"
+              d="M 1952.723633,-87.387794 C 1954.431641,132.162216 1627.668579,464.049194 1408.118530,465.757172"
+              class="id_Arts_&amp;_recreation id_STM" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.3619421"
+              d="M 1952.723633,-87.387794 C 2014.250610,-176.370529 2240.015381,-217.554077 2328.998047,-156.027054"
+              class="id_Arts_&amp;_recreation id_PER" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.19666131"
+              d="M 1952.723633,-87.387794 C 1998.236084,-141.366653 2147.473145,-154.066269 2201.451904,-108.553825"
+              class="id_Arts_&amp;_recreation id_NEI" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11961181"
+              d="M 1952.723633,-87.387794 C 1904.174072,-140.939163 1911.676758,-294.090607 1965.228149,-342.640167"
+              class="id_Arts_&amp;_recreation id_BUE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.48166585"
+              d="M 1952.723633,-87.387794 C 1801.695801,149.599838 1219.672485,278.539520 982.684937,127.511681"
+              class="id_Arts_&amp;_recreation id_POP" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14795938"
+              d="M 1952.723633,-87.387794 C 1784.094482,-156.157364 1634.305298,-512.255432 1703.074829,-680.884521"
+              class="id_Arts_&amp;_recreation id_VIL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2597336"
+              d="M 1952.723633,-87.387794 C 2129.391357,-3.479832 2268.530762,387.383545 2184.622803,564.051147"
+              class="id_Arts_&amp;_recreation id_CAL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13961673"
+              d="M 1952.723633,-87.387794 C 1996.035889,-20.460829 1960.613525,144.897888 1893.686646,188.210052"
+              class="id_Arts_&amp;_recreation id_ESPE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12480959"
+              d="M 1952.723633,-87.387794 C 1781.725952,67.911407 1292.280640,44.363686 1136.981445,-126.633987"
+              class="id_Arts_&amp;_recreation id_CUC" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13808796"
+              d="M 1691.771484,188.077667 C 1603.288086,188.667969 1469.677612,56.828304 1469.087280,-31.655090"
+              class="id_BAR id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15302613"
+              d="M 1691.771484,188.077667 C 1647.978027,88.132370 1732.205566,-127.475830 1832.150879,-171.269363"
+              class="id_BAR id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.31332755"
+              d="M 1691.771484,188.077667 C 1630.168579,143.323868 1604.894775,-16.211294 1649.648560,-77.814270"
+              class="id_BAR id_Social_sciences" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.24584371"
+              d="M 1691.771484,188.077667 C 1552.763916,155.225677 1393.530396,-102.563705 1426.382446,-241.571304"
+              class="id_BAR id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11310366"
+              d="M 1691.771484,188.077667 C 1612.564575,104.724251 1618.784546,-139.116104 1702.137939,-218.322952"
+              class="id_BAR id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.29074556"
+              d="M 1649.648560,-77.814270 C 1610.463501,-93.529877 1575.259155,-175.880981 1590.974731,-215.066132"
+              class="id_Social_sciences id_GIR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.21491908"
+              d="M 1649.648560,-77.814270 C 1691.435181,-224.937332 1974.799805,-382.941925 2121.922852,-341.155243"
+              class="id_Social_sciences id_LET" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.5599384"
+              d="M 1649.648560,-77.814270 C 1685.257446,-22.249311 1655.323486,114.511559 1599.758545,150.120514"
+              class="id_Social_sciences id_CAR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.37194458"
+              d="M 1649.648560,-77.814270 C 1625.831665,-144.474976 1690.097412,-280.191406 1756.758057,-304.008301"
+              class="id_Social_sciences id_FLO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.150695"
+              d="M 1649.648560,-77.814270 C 1598.929688,-199.047333 1704.701050,-456.975220 1825.934082,-507.694061"
+              class="id_Social_sciences id_CASAGO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15555951"
+              d="M 1649.648560,-77.814270 C 1763.158936,50.805656 1740.494629,414.001068 1611.874634,527.511414"
+              class="id_Social_sciences id_SAN" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0404058"
+              d="M 1649.648560,-77.814270 C 1814.782227,-63.154037 2040.492432,206.536835 2025.832153,371.670502"
+              class="id_Social_sciences id_PAS" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.33988428"
+              d="M 1649.648560,-77.814270 C 1710.056763,79.206017 1565.138794,405.348907 1408.118530,465.757172"
+              class="id_Social_sciences id_STM" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.64537424"
+              d="M 1649.648560,-77.814270 C 1769.875854,-229.326721 2177.485596,-276.254395 2328.998047,-156.027054"
+              class="id_Social_sciences id_PER" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.55399805"
+              d="M 1649.648560,-77.814270 C 1753.861328,-194.322845 2084.943359,-212.766571 2201.451904,-108.553825"
+              class="id_Social_sciences id_NEI" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1"
+              d="M 1649.648560,-77.814270 C 1623.922119,101.882156 1315.787720,332.837036 1136.091309,307.110565"
+              class="id_Social_sciences id_IEC" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15154105"
+              d="M 1649.648560,-77.814270 C 1659.799316,-193.895370 1849.146973,-352.790894 1965.228149,-342.640167"
+              class="id_Social_sciences id_BUE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0586636"
+              d="M 1649.648560,-77.814270 C 1557.321045,96.643661 1157.142822,219.839218 982.684937,127.511681"
+              class="id_Social_sciences id_POP" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.3154241"
+              d="M 1649.648560,-77.814270 C 1539.719849,-209.113571 1571.775513,-570.955688 1703.074829,-680.884521"
+              class="id_Social_sciences id_VIL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.47450253"
+              d="M 1649.648560,-77.814270 C 1885.016479,-56.436050 2206.000977,328.683228 2184.622803,564.051147"
+              class="id_Social_sciences id_CAL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11140018"
+              d="M 1649.648560,-77.814270 C 1751.661011,-73.417023 1898.083862,86.197571 1893.686646,188.210052"
+              class="id_Social_sciences id_ESPE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17215747"
+              d="M 1649.648560,-77.814270 C 1537.351196,14.955208 1229.750977,-14.336617 1136.981445,-126.633987"
+              class="id_Social_sciences id_CUC" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.27781662"
+              d="M 1599.758545,150.120514 C 1537.269165,139.899658 1458.866455,30.834286 1469.087280,-31.655090"
+              class="id_CAR id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2547542"
+              d="M 1599.758545,150.120514 C 1581.959106,39.364071 1721.394409,-153.469849 1832.150879,-171.269363"
+              class="id_CAR id_History_&amp;_geography" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.4264121"
+              d="M 1599.758545,150.120514 C 1486.744995,106.457367 1382.719238,-128.557724 1426.382446,-241.571304"
+              class="id_CAR id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1181704"
+              d="M 1599.758545,150.120514 C 1546.545654,55.955940 1607.973389,-165.110123 1702.137939,-218.322952"
+              class="id_CAR id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15442386"
+              d="M 1832.150879,-171.269363 C 1775.156250,-131.793488 1630.450562,-158.071548 1590.974731,-215.066132"
+              class="id_History_&amp;_geography id_GIR" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13546723"
+              d="M 1832.150879,-171.269363 C 1856.128052,-263.200928 2029.991333,-365.132477 2121.922852,-341.155243"
+              class="id_History_&amp;_geography id_LET" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.18202889"
+              d="M 1832.150879,-171.269363 C 1790.524536,-182.738586 1745.288940,-262.381958 1756.758057,-304.008301"
+              class="id_History_&amp;_geography id_FLO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.530062"
+              d="M 1832.150879,-171.269363 C 1763.622559,-237.310928 1759.892578,-439.165771 1825.934082,-507.694061"
+              class="id_History_&amp;_geography id_CASAGO" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.120004915"
+              d="M 1832.150879,-171.269363 C 1927.851807,12.542049 1795.686035,431.810486 1611.874634,527.511414"
+              class="id_History_&amp;_geography id_SAN" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.390246"
+              d="M 1832.150879,-171.269363 C 1979.475098,-101.417633 2095.683838,224.346268 2025.832153,371.670502"
+              class="id_History_&amp;_geography id_PAS" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.20373729"
+              d="M 1832.150879,-171.269363 C 1874.749634,40.942429 1620.330322,423.158325 1408.118530,465.757172"
+              class="id_History_&amp;_geography id_STM" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.35119712"
+              d="M 1832.150879,-171.269363 C 1934.568726,-267.590332 2232.677246,-258.444946 2328.998047,-156.027054"
+              class="id_History_&amp;_geography id_PER" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.18923591"
+              d="M 1832.150879,-171.269363 C 1918.554199,-232.586472 2140.135010,-194.957153 2201.451904,-108.553825"
+              class="id_History_&amp;_geography id_NEI" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1268625"
+              d="M 1832.150879,-171.269363 C 1824.492188,-232.158966 1904.338501,-334.981445 1965.228149,-342.640167"
+              class="id_History_&amp;_geography id_BUE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.39098856"
+              d="M 1832.150879,-171.269363 C 1722.013916,58.380035 1212.334351,237.648666 982.684937,127.511681"
+              class="id_History_&amp;_geography id_POP" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14900768"
+              d="M 1832.150879,-171.269363 C 1704.412598,-247.377167 1626.967041,-553.146301 1703.074829,-680.884521"
+              class="id_History_&amp;_geography id_VIL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.27781662"
+              d="M 1832.150879,-171.269363 C 2049.709473,-94.699646 2261.192627,346.492676 2184.622803,564.051147"
+              class="id_History_&amp;_geography id_CAL" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.112099044"
+              d="M 1832.150879,-171.269363 C 1916.353882,-111.680626 1953.275391,104.007011 1893.686646,188.210052"
+              class="id_History_&amp;_geography id_ESPE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1260326"
+              d="M 1832.150879,-171.269363 C 1702.044067,-23.308411 1284.942505,3.472809 1136.981445,-126.633987"
+              class="id_History_&amp;_geography id_CUC" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.23579757"
+              d="M 1756.758057,-304.008301 C 1753.694580,-192.003510 1581.092041,-28.591576 1469.087280,-31.655090"
+              class="id_FLO id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.8412739"
+              d="M 1756.758057,-304.008301 C 1703.170410,-225.445770 1504.944946,-187.983582 1426.382446,-241.571304"
+              class="id_FLO id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.112841584"
+              d="M 1756.758057,-304.008301 C 1762.971069,-275.947205 1730.199097,-224.535995 1702.137939,-218.322952"
+              class="id_FLO id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.4078049"
+              d="M 1825.934082,-507.694061 C 1849.772461,-341.116913 1635.664429,-55.493523 1469.087280,-31.655090"
+              class="id_CASAGO id_Technology" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="1.0046765"
+              d="M 1825.934082,-507.694061 C 1799.248291,-374.559204 1559.517212,-214.885513 1426.382446,-241.571304"
+              class="id_CASAGO id_Literature" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.22120883"
+              d="M 1825.934082,-507.694061 C 1859.049072,-425.060638 1784.771484,-251.437943 1702.137939,-218.322952"
+              class="id_CASAGO id_Religion" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13813165"
+              d="M 1611.874634,527.511414 C 1471.483887,444.235565 1385.811523,108.735680 1469.087280,-31.655090"
+              class="id_SAN id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.47345424"
+              d="M 1611.874634,527.511414 C 1420.959717,410.793335 1309.664307,-50.656322 1426.382446,-241.571304"
+              class="id_SAN id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10388742"
+              d="M 1611.874634,527.511414 C 1480.760376,360.291870 1534.918457,-87.208725 1702.137939,-218.322952"
+              class="id_SAN id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.5497612"
+              d="M 2025.832153,371.670502 C 1833.817993,402.354340 1499.771118,160.359009 1469.087280,-31.655090"
+              class="id_PAS id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="2.489452"
+              d="M 2025.832153,371.670502 C 1783.293945,368.912079 1423.624023,0.967010 1426.382446,-241.571304"
+              class="id_PAS id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.17006089"
+              d="M 2025.832153,371.670502 C 1843.094604,318.410645 1648.878174,-35.585411 1702.137939,-218.322952"
+              class="id_PAS id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.27074066"
+              d="M 1408.118530,465.757172 C 1320.829834,354.080963 1357.411133,55.633614 1469.087280,-31.655090"
+              class="id_STM id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.63720626"
+              d="M 1408.118530,465.757172 C 1270.305664,320.638702 1281.263916,-103.758392 1426.382446,-241.571304"
+              class="id_STM id_Literature" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.12035435"
+              d="M 1408.118530,465.757172 C 1330.106323,270.137268 1506.518066,-140.310806 1702.137939,-218.322952"
+              class="id_STM id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.980129"
+              d="M 1426.382446,-241.571304 C 1464.601929,-269.188721 1563.357300,-253.285629 1590.974731,-215.066132"
+              class="id_Literature id_GIR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.7004533"
+              d="M 1426.382446,-241.571304 C 1545.573730,-400.596191 1962.897949,-460.346558 2121.922852,-341.155243"
+              class="id_Literature id_LET" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="1.9940026"
+              d="M 1426.382446,-241.571304 C 1624.014404,-404.985596 2165.583740,-353.659058 2328.998047,-156.027054"
+              class="id_Literature id_PER" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.8638995"
+              d="M 1426.382446,-241.571304 C 1607.999878,-369.981689 2073.041504,-290.171204 2201.451904,-108.553825"
+              class="id_Literature id_NEI" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.18019438"
+              d="M 1426.382446,-241.571304 C 1513.937866,-369.554199 1837.245239,-430.195557 1965.228149,-342.640167"
+              class="id_Literature id_BUE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="2.856005"
+              d="M 1426.382446,-241.571304 C 1411.459595,-79.015198 1145.241089,142.434586 982.684937,127.511681"
+              class="id_Literature id_POP" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.26912454"
+              d="M 1426.382446,-241.571304 C 1393.858276,-384.772430 1559.873657,-648.360352 1703.074829,-680.884521"
+              class="id_Literature id_VIL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.3719009"
+              d="M 1426.382446,-241.571304 C 1739.155029,-232.094894 2194.099121,251.278549 2184.622803,564.051147"
+              class="id_Literature id_CAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.14389725"
+              d="M 1426.382446,-241.571304 C 1605.799561,-249.075867 1886.182129,8.792946 1893.686646,188.210052"
+              class="id_Literature id_ESPE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.18364501"
+              d="M 1426.382446,-241.571304 C 1391.489624,-160.703644 1217.849121,-91.741241 1136.981445,-126.633987"
+              class="id_Literature id_CUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2665038"
+              d="M 2201.451904,-108.553825 C 2070.358643,53.298851 1630.939941,99.438095 1469.087280,-31.655090"
+              class="id_NEI id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.117777295"
+              d="M 2201.451904,-108.553825 C 2079.635254,-30.644867 1780.046875,-96.506332 1702.137939,-218.322952"
+              class="id_NEI id_Religion" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.118214086"
+              d="M 1702.137939,-218.322952 C 1680.556641,-195.438950 1613.858765,-193.484863 1590.974731,-215.066132"
+              class="id_Religion id_GIR" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10952199"
+              d="M 1702.137939,-218.322952 C 1761.528564,-326.846375 2013.399414,-400.545776 2121.922852,-341.155243"
+              class="id_Religion id_LET" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1743851"
+              d="M 1702.137939,-218.322952 C 1839.969238,-331.235779 2216.085205,-293.858276 2328.998047,-156.027054"
+              class="id_Religion id_PER" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10266441"
+              d="M 1702.137939,-218.322952 C 1729.892578,-295.804443 1887.746704,-370.394775 1965.228149,-342.640167"
+              class="id_Religion id_BUE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.16669762"
+              d="M 1702.137939,-218.322952 C 1627.414307,-5.265411 1195.742432,202.235352 982.684937,127.511681"
+              class="id_Religion id_POP" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.11153122"
+              d="M 1702.137939,-218.322952 C 1609.812988,-311.022644 1610.375122,-588.559570 1703.074829,-680.884521"
+              class="id_Religion id_VIL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.15223992"
+              d="M 1702.137939,-218.322952 C 1955.109741,-158.345093 2244.600586,311.079346 2184.622803,564.051147"
+              class="id_Religion id_CAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1022713"
+              d="M 1702.137939,-218.322952 C 1821.754272,-175.326096 1936.683594,68.593704 1893.686646,188.210052"
+              class="id_Religion id_ESPE" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10462996"
+              d="M 1702.137939,-218.322952 C 1607.444458,-86.953850 1268.350464,-31.940483 1136.981445,-126.633987"
+              class="id_Religion id_CUC" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.2208594"
+              d="M 1590.974731,-215.066132 C 1603.279541,-154.006439 1530.146973,-43.959805 1469.087280,-31.655090"
+              class="id_GIR id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.1712839"
+              d="M 2121.922852,-341.155243 C 2053.255859,-148.688110 1661.554443,37.011986 1469.087280,-31.655090"
+              class="id_LET id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13577299"
+              d="M 1965.228149,-342.640167 C 1928.197021,-181.214966 1630.512451,5.376076 1469.087280,-31.655090"
+              class="id_BUE id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.62611187"
+              d="M 982.684937,127.511681 C 1048.132080,-1.602158 1339.973389,-97.102211 1469.087280,-31.655090"
+              class="id_POP id_Technology" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.40383014"
+              d="M 1469.087280,-31.655090 C 1616.195068,-228.511642 2132.141357,-303.134827 2328.998047,-156.027054"
+              class="id_Technology id_PER" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.21408917"
+              d="M 1469.087280,-31.655090 C 1386.038818,-208.298492 1526.431396,-597.836121 1703.074829,-680.884521"
+              class="id_Technology id_VIL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.22081572"
+              d="M 1469.087280,-31.655090 C 1731.335571,-55.620949 2160.656982,301.802795 2184.622803,564.051147"
+              class="id_Technology id_CAL" stroke-opacity="1.0" stroke="#c98694"/>
+        <path fill="none" stroke-width="0.10506675"
+              d="M 1469.087280,-31.655090 C 1597.980225,-72.601936 1852.739746,59.317154 1893.686646,188.210052"
+              class="id_Technology id_ESPE" stroke-opacity="1.0"
+              stroke="#c98694"/>
+        <path fill="none" stroke-width="0.13507412"
+              d="M 1469.087280,-31.655090 C 1383.670410,15.770302 1184.406860,-41.217033 1136.981445,-126.633987"
+              class="id_Technology id_CUC" stroke-opacity="1.0" stroke="#c98694"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="52.294495" cx="1996.3887"
+                class="id_Science" cy="93.5836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="26.621597" cx="1571.7118"
+                class="id_RIO" cy="69.18559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="33.7868" cx="1500.8617"
+                class="id_ARM" cy="-658.92755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="53.107777" cx="2108.732"
+                class="id_TUN" cy="-0.83393097" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="42.72755" cx="1715.2852"
+                class="id_MAN" cy="298.15945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="44.593258" cx="2253.0652"
+                class="id_IBA" cy="210.56577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="31.046127" cx="1524.1627"
+                class="id_HON" cy="353.73407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="27.930157" cx="1632.8873"
+                class="id_QUI" cy="-301.8414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="36.91449" cx="1820.3179"
+                class="id_Language" cy="443.25195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="30.270279" cx="1211.0311"
+                class="id_MED" cy="-253.07138" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="80.0" cx="1804.4569"
+                class="id_BLAA" cy="46.119522" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="36.38382" cx="1536.6316"
+                class="id_BUC" cy="-500.91678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="42.022846" cx="1792.0667"
+                class="id_Computer_science,
+information,
+&amp;_general_works" cy="210.72133" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="23.787048" cx="2221.8704"
+                class="id_CATMAN" cy="-442.1508" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="33.02078" cx="1935.2633"
+                class="id_VAL" cy="-225.5834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="27.212759" cx="1324.2434"
+                class="id_MON" cy="-93.131454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="32.926197" cx="1402.2748"
+                class="id_SIN" cy="-444.58395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="53.080116" cx="1802.4303"
+                class="id_Philosophy_&amp;_psychology" cy="630.365"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="39.58705" cx="1199.985"
+                class="id_IPI" cy="57.158646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="54.849285" cx="1952.7236"
+                class="id_Arts_&amp;_recreation" cy="-87.387794"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="29.784061" cx="1691.7715"
+                class="id_BAR" cy="188.07767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="71.3319" cx="1649.6486"
+                class="id_Social_sciences" cy="-77.81427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="34.759846" cx="1599.7585"
+                class="id_CAR" cy="150.12051" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="52.89757" cx="1832.1509"
+                class="id_History_&amp;_geography" cy="-171.26936"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="35.215668" cx="1756.758"
+                class="id_FLO" cy="-304.0083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="42.919098" cx="1825.9341"
+                class="id_CASAGO" cy="-507.69406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="29.426163" cx="1611.8746"
+                class="id_SAN" cy="527.5114" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="46.960472" cx="2025.8322"
+                class="id_PAS" cy="371.6705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="34.392708" cx="1408.1185"
+                class="id_STM" cy="465.75717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="75.35332" cx="1426.3824"
+                class="id_Literature" cy="-241.5713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="36.551914" cx="2201.452"
+                class="id_NEI" cy="-108.553825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="38.385887" cx="1702.138"
+                class="id_Religion" cy="-218.32295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="20.0" cx="1136.0913"
+                class="id_IEC" cy="307.11057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="35.2999" cx="1590.9747"
+                class="id_GIR" cy="-215.06613" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="32.444" cx="2121.9229"
+                class="id_LET" cy="-341.15524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="26.384317" cx="1965.2281"
+                class="id_BUE" cy="-342.64017" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="47.60007" cx="982.68494"
+                class="id_POP" cy="127.51168" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="55.864735" cx="1469.0873"
+                class="id_Technology" cy="-31.65509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="30.577854" cx="1703.0748"
+                class="id_VIL" cy="-680.8845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="34.189064" cx="2184.6228"
+                class="id_CAL" cy="564.05115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="25.435556" cx="1893.6866"
+                class="id_ESPE" cy="188.21005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="43.33443" cx="2328.998"
+                class="id_PER" cy="-156.02705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="26.77124" cx="1136.9814"
+                class="id_CUC" cy="-126.63399" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="31" x="1996.3887" y="99.3734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Science">
+            Science
+        </text>
+        <text font-size="16" x="1571.7118" y="72.08143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_RIO">
+            RIO
+        </text>
+        <text font-size="20" x="1500.8617" y="-655.4282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_ARM">
+            ARM
+        </text>
+        <text font-size="32" x="2108.732" y="4.8301315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_TUN">
+            TUN
+        </text>
+        <text font-size="26" x="1715.2852" y="302.66418" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_MAN">
+            MAN
+        </text>
+        <text font-size="27" x="2253.0652" y="215.32285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_IBA">
+            IBA
+        </text>
+        <text font-size="19" x="1524.1627" y="357.17288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_HON">
+            HON
+        </text>
+        <text font-size="17" x="1632.8873" y="-298.06317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_QUI">
+            QUI
+        </text>
+        <text font-size="22" x="1820.3179" y="448.09845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Language">
+            Language
+        </text>
+        <text font-size="18" x="1211.0311" y="-249.88535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_MED">
+            MED
+        </text>
+        <text font-size="48" x="1804.4569" y="54.576553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_BLAA">
+            BLAA
+        </text>
+        <text font-size="22" x="1536.6316" y="-496.935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_BUC">
+            BUC
+        </text>
+        <text font-size="25" x="1792.0667" y="216.74753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed"
+              class="id_Computer_science,
+information,
+&amp;_general_works">
+            Computer science, information,&amp; general works
+        </text>
+        <text font-size="14" x="2221.8704" y="-439.61694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_CATMAN">
+            CATMAN
+        </text>
+        <text font-size="20" x="1935.2633" y="-222.11824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_VAL">
+            VAL
+        </text>
+        <text font-size="16" x="1324.2434" y="-90.23562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_MON">
+            MON
+        </text>
+        <text font-size="20" x="1402.2748" y="-440.96417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_SIN">
+            SIN
+        </text>
+        <text font-size="32" x="1802.4303" y="638.0785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed"
+              class="id_Philosophy_&amp;_psychology">
+            Philosophy&amp; psychology
+        </text>
+        <text font-size="24" x="1199.985" y="61.357864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_IPI">
+            IPI
+        </text>
+        <text font-size="33" x="1952.7236" y="-81.24058" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Arts_&amp;_recreation">
+            Arts&amp; recreation
+        </text>
+        <text font-size="18" x="1691.7715" y="191.24905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_BAR">
+            BAR
+        </text>
+        <text font-size="43" x="1649.6486" y="-69.31085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Social_sciences">
+            Social sciences
+        </text>
+        <text font-size="21" x="1599.7585" y="153.9213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_CAR">
+            CAR
+        </text>
+        <text font-size="32" x="1832.1509" y="-163.55582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_History_&amp;_geography">
+            History&amp; geography
+        </text>
+        <text font-size="21" x="1756.758" y="-300.20752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_FLO">
+            FLO
+        </text>
+        <text font-size="26" x="1825.9341" y="-502.982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_CASAGO">
+            CASAGO
+        </text>
+        <text font-size="18" x="1611.8746" y="530.7692" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_SAN">
+            SAN
+        </text>
+        <text font-size="28" x="2025.8322" y="376.73822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_PAS">
+            PAS
+        </text>
+        <text font-size="21" x="1408.1185" y="469.55795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_STM">
+            STM
+        </text>
+        <text font-size="45" x="1426.3824" y="-233.18874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Literature">
+            Literature
+        </text>
+        <text font-size="22" x="2201.452" y="-104.74214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_NEI">
+            NEI
+        </text>
+        <text font-size="23" x="1702.138" y="-212.77884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Religion">
+            Religion
+        </text>
+        <text font-size="12" x="1136.0913" y="309.28244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_IEC">
+            IEC
+        </text>
+        <text font-size="21" x="1590.9747" y="-211.26022" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_GIR">
+            GIR
+        </text>
+        <text font-size="19" x="2121.9229" y="-337.86334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_LET">
+            LET
+        </text>
+        <text font-size="16" x="1965.2281" y="-339.7808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_BUE">
+            BUE
+        </text>
+        <text font-size="29" x="982.68494" y="132.76038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_POP">
+            POP
+        </text>
+        <text font-size="34" x="1469.0873" y="-23.459452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_Technology">
+            Technology
+        </text>
+        <text font-size="18" x="1703.0748" y="-677.76587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_VIL">
+            VIL
+        </text>
+        <text font-size="21" x="2184.6228" y="567.8519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_CAL">
+            CAL
+        </text>
+        <text font-size="15" x="1893.6866" y="190.9249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_ESPE">
+            ESPE
+        </text>
+        <text font-size="26" x="2328.998" y="-151.4779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_PER">
+            PER
+        </text>
+        <text font-size="16" x="1136.9814" y="-123.73815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Ubuntu Condensed" class="id_CUC">
+            CUC
+        </text>
+    </g>
+</svg>
